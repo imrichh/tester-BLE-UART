@@ -9,6 +9,16 @@
 - **Blink**: Keydown recognised
 - **3x longer blink**: Keydown sent over to BLE master and transmission successfull
 - **10x rapid blink**: ERROR: BLE transmission NOT successful.
+- **Pulse**: Resetting
+
+### Upper left corner - orange LED
+- **Solid**: Charging
+
+### Lower right corner - red LED
+- **Blink**: Charging
+
+### Lower left corner - blue LED
+- **Solid**: Connected to BLE master
 
 ## Setup
 ### Software
